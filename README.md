@@ -14,7 +14,7 @@ It can be deployed on a web server, or even in a local server.
 
 ## How To Contribute
 
-Give me monies!
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
