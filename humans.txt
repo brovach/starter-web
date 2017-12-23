@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joe Kovach    joekovach82@gmail.com    Hi
 
 # THANKS
 
