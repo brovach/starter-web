@@ -15,3 +15,7 @@ It can be deployed on a web server, or even in a local server.
 ## How To Contribute
 
 Give me monies!
+
+### Copyright
+
+2017 Git.Training
