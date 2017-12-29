@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work. Adding a little bit of extra text here in the README file for the rebasing example. Now, more changes from myfeature branch too
+This repository is for showing how Git and GitHub work. Adding a little bit of extra text here in the README file for the rebasing example. Doing an emergency fix after our stash.
 
 ## Purpose
 
